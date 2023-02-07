@@ -4,7 +4,7 @@ To develop a solution that utilizes the concept of multi calls to fetch prices f
 
 Developed using Node.js
 
-Indorder to retrieve multiple token prices in single call, made use of Uniswap subgraphs of tokens object
+Indorder to retrieve multiple token prices in single call, made use of Uniswap subgraphs of tokens object using GraphQL
 
 ![image](https://user-images.githubusercontent.com/59253577/217344683-f2f84a52-9394-44e0-bcce-df93846edf10.png)
 
